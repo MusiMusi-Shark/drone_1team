@@ -1,2 +1,2 @@
-Main is for finall code.
-Will update before testing.
+Develop is for pre-final code.
+You can update anytime.
